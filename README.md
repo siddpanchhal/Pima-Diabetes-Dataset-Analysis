@@ -12,7 +12,8 @@ their impact on diabetes.
 
 - Validation Tests: Applied various validation techniques to ensure the robustness and reliability of the model outcomes.
 
--Visualization: Created comprehensive visualizations, including histograms, box plots, and scatter plots, to explore data
+- Visualization: Created comprehensive visualizations, including histograms, box plots, and scatter plots, to explore data
 distributions and correlations among features.
 
 - Tools Used: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notebook.
+
